@@ -1,0 +1,11 @@
+1. Bootstrap CDN
+- Why is it important to know Bootstrap CDN and how to include bootstrap in your application using a CDN?
+- When do we use Bower to install bootstrap and when to use npm to install bootstrap?
+
+2. Bootstrap CSS
+- What are containers? Which are the two classes used for container?
+- How to achieve coloumn wrapping?
+- Demonstrate the use of clearfix.
+- How to insert white spaces between two coloumns?(Ofsetting Coloumns)
+- Demonstrate push and pull classes.
+-
